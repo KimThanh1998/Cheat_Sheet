@@ -10,7 +10,7 @@
 * [Indent](#Indent)
 * [Paragraph](#Paragraph)
 * [Table](#Table)
-* [Named Anchor (Jump/Goto)](#Named Anchor)
+* [Named Anchor](#Named Anchor)
 
 ## Italic/Bold
 <a id="Italic/Bold"></a>
