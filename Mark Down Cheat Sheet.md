@@ -206,10 +206,11 @@ To doubt they were kneeling then
 <a id="NamedAnchor"></a>
 
 ```
-[My anchor](#My anchor)
+(No space between name)
+[My anchor](#Myanchor)
 
-<a id="My anchor"></a>
+<a id="Myanchor"></a>
 ```
 
-[My anchor](#My anchor)
-<a id="My anchor"></a>
+[My anchor](#Myanchor)
+<a id="Myanchor"></a>
