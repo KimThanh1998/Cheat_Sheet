@@ -3,15 +3,14 @@
 ## Table of content
 * [Italic/Bold](#Italic/Bold)
 * [Header](#Header)
-* Link
-* Images
-* Quote
-* List
-* Indent
-* Paragraph
+* [Link](#Link)
+* [Images](#Images)
+* [Quote](#Quote)
+* [List](#List)
+* [Indent](#Indent)
+* [Paragraph](#Paragraph)
 
-<a id="Italic/Bold"></a>
-## Italic/Bold
+## <a id="Italic/Bold"></a> Italic/Bold
 ```
 _Italic_
 ```
@@ -28,8 +27,7 @@ _Italic_
 
 **_Both Italic and Bold example_**
 
-<a id="Header"></a>
-## Header
+## <a id="Header"></a> Header
 ```
 # Header one
 ```
@@ -41,7 +39,7 @@ _Italic_
 ##### Header five
 ###### Header six
 
-## Link
+## <a id="Link"></a> Link
 ```
 [Search for it.](www.google.com)
 ```
@@ -69,7 +67,7 @@ Well, do I have [the website for you][another fun place]!
 [a fun place]: www.zombo.com
 [another fun place]: www.stumbleupon.com
 
-## Images
+## <a id="Images"></a> Images
 ```
 ![A pretty tiger](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
 ```
@@ -92,14 +90,14 @@ Well, do I have [the website for you][another fun place]!
 
 [Orange]: http://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22221-cat-icon.png
 
-## Quote
+## <a id="Quote"></a> Quote
 ```
 > "Her eyes had called him and his soul had leaped at the call. To live, to err, to fall, to triumph, to recreate life out of life!"
 ```
 
 > "Her eyes had called him and his soul had leaped at the call. To live, to err, to fall, to triumph, to recreate life out of life!"
 
-## List
+## <a id="List"></a> List
 
 ```
 * Flour
@@ -141,7 +139,7 @@ Well, do I have [the website for you][another fun place]!
   * Has white hair
   * Is possibly mentally unwell
  
-## Indent
+## <a id="Indent"></a> Indent
 (1 empty line between each line and space to the right)
 ```
 1. Cut the cheese
@@ -164,7 +162,7 @@ Well, do I have [the website for you][another fun place]!
   
    For more help on tomato slicing, see Thomas Jefferson's seminal essay _Tom Ate Those_.
    
-## Paragraph
+## <a id="Paragraph"></a> Paragraph
 (2 space at the end of the line - same as 1 empty line between each line)
 
 ```
