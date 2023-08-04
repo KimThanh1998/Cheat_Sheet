@@ -9,6 +9,8 @@
 * [List](#List)
 * [Indent](#Indent)
 * [Paragraph](#Paragraph)
+* [Table](#Table)
+* [Named Anchor (Jump/Goto)](#Named Anchor)
 
 ## Italic/Bold
 <a id="Italic/Bold"></a>
@@ -185,4 +187,29 @@ They dwelt in their strawy pen,
 Nor did it occur to one of us there  
 To doubt they were kneeling then  
 
+## Table
+<a id="Table"></a>
 
+```
+|Title 1|Title2|Title3|
+|---|---|---|
+|ABC|DEF|GHF|
+|JKL|MNO|JPQ|
+```
+
+|Title 1|Title2|Title3|
+|---|---|---|
+|ABC|DEF|GHI|
+|JKL|MNO|JPQ|
+
+## Named Anchor (Jump)
+<a id="Named Anchor"></a>
+
+```
+[My anchor](#My anchor)
+
+<a id="My anchor"></a>
+```
+
+[My anchor](#My anchor)
+<a id="My anchor"></a>
