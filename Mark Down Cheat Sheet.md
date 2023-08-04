@@ -12,6 +12,7 @@
 * [Table](#Table)
 * [Anchor](#NamedAnchor)
 * [Code](#Code)
+* [Show Details](#Details)
 
 ## Italic/Bold
 <a id="Italic/Bold"></a>
@@ -195,13 +196,13 @@ To doubt they were kneeling then
 |Title 1|Title2|Title3|
 |---|---|---|
 |ABC|DEF|GHF|
-|JKL|MNO|JPQ|
+|JKL<br>CBA|MNO<br>FED|JPQ<br>IHG|
 ```
 
 |Title 1|Title2|Title3|
 |---|---|---|
 |ABC|DEF|GHI|
-|JKL|MNO|JPQ|
+|JKL<br>CBA|MNO<br>FED|JPQ<br>IHG|
 
 ## Named Anchor (Jump)
 <a id="NamedAnchor"></a>
@@ -240,4 +241,43 @@ int main() {
   return 0;
 }
 ```
+
+## Show details
+<a id="Details"></a>
+
+```
+<details>
+  <summary>Dummy.cpp</summary>
+ (Empty Line)
+ ```C++
+  State Example::doSomething(const uint32_t value)
+  {
+      State ret = STATE_ERROR;
+      if (STATE_ERROR == m_state)
+          {
+              Foo::doSomeOthers(value));
+              ret = STATE_SUCCESS;
+          }
+      return ret;
+  }
+  ```C++
+</details>
+```
+
+<details>
+  <summary>Dummy.cpp</summary>
+ 
+ ```C++
+  State Example::doSomething(const uint32_t value)
+  {
+      State ret = STATE_ERROR;
+      if (STATE_ERROR == m_state)
+          {
+              Foo::doSomeOthers(value));
+              ret = STATE_SUCCESS;
+          }
+      return ret;
+  }
+ ``` 
+</details>
 
