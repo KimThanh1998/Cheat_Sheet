@@ -10,7 +10,7 @@
 * [Indent](#Indent)
 * [Paragraph](#Paragraph)
 * [Table](#Table)
-* [Named Anchor](#Named Anchor)
+* [Anchor](#NamedAnchor)
 
 ## Italic/Bold
 <a id="Italic/Bold"></a>
@@ -203,7 +203,7 @@ To doubt they were kneeling then
 |JKL|MNO|JPQ|
 
 ## Named Anchor (Jump)
-<a id="Named Anchor"></a>
+<a id="NamedAnchor"></a>
 
 ```
 [My anchor](#My anchor)
