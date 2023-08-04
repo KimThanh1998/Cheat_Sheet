@@ -1,5 +1,16 @@
 # Mark down
 
+## Table of content
+* [Italic/Bold](#Italic/Bold)
+* [Header](#Header)
+* Link
+* Images
+* Quote
+* List
+* Indent
+* Paragraph
+
+<a id="Italic/Bold"></a>
 ## Italic/Bold
 ```
 _Italic_
@@ -17,6 +28,7 @@ _Italic_
 
 **_Both Italic and Bold example_**
 
+<a id="Header"></a>
 ## Header
 ```
 # Header one
