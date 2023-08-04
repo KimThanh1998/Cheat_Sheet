@@ -208,7 +208,7 @@ To doubt they were kneeling then
 <a id="NamedAnchor"></a>
 
 ```
-(No space between name)
+(No space between anchor name)
 [My anchor](#Myanchor)
 
 <a id="Myanchor"></a>
