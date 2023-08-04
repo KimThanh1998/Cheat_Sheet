@@ -11,6 +11,7 @@
 * [Paragraph](#Paragraph)
 * [Table](#Table)
 * [Anchor](#NamedAnchor)
+* [Code](#Code)
 
 ## Italic/Bold
 <a id="Italic/Bold"></a>
@@ -214,3 +215,29 @@ To doubt they were kneeling then
 
 [My anchor](#Myanchor)
 <a id="Myanchor"></a>
+
+## Code
+<a id="Code"></a>
+
+```
+\```C++
+#include <iostream>
+
+using namespace std;
+
+int main() {
+  return 0;
+}
+\```
+```
+
+```C++
+#include <iostream>
+
+using namespace std;
+
+int main() {
+  return 0;
+}
+```
+
