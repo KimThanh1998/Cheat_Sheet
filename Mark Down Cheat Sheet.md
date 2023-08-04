@@ -10,8 +10,8 @@
 * [Indent](#Indent)
 * [Paragraph](#Paragraph)
 
-## Italic/Bold
 <a id="Italic/Bold"></a>
+## Italic/Bold
 ```
 _Italic_
 ```
@@ -28,8 +28,8 @@ _Italic_
 
 **_Both Italic and Bold example_**
 
-## Header
 <a id="Header"></a>
+## Header
 ```
 # Header one
 ```
